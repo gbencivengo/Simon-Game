@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">SimonGame</string>
+    <string name="SimonTitle">Simon</string>
+    <string name="MyName">George Bencivengo IV</string>
+    <string name="PlayString">Play!</string>
+    <string name="scoreString">Score: 0</string>
+    <string name="quitString">Quit</string>
+    <string name="gameOverString">Game Over!</string>
+    <string name="playAgainString">Return to Main Menu</string>
+</resources>

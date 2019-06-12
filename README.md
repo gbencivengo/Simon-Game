@@ -1,2 +1,2 @@
 # Simon-Game
-Android Simon Game I created for Mobile Development Class
+Final Project for Android Mobile Development Class for CS 477
